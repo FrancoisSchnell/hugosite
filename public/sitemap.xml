@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://francoisschnell.github.io/hugosite/posts/my-first-post/</loc>
-    <lastmod>2025-01-08T16:35:04+01:00</lastmod>
-  </url><url>
     <loc>https://francoisschnell.github.io/hugosite/</loc>
-    <lastmod>2025-01-08T16:35:04+01:00</lastmod>
+    <lastmod>2025-01-08T17:54:43+01:00</lastmod>
   </url><url>
     <loc>https://francoisschnell.github.io/hugosite/posts/</loc>
+    <lastmod>2025-01-08T17:54:43+01:00</lastmod>
+  </url><url>
+    <loc>https://francoisschnell.github.io/hugosite/posts/my-first-post/</loc>
     <lastmod>2025-01-08T16:35:04+01:00</lastmod>
   </url><url>
     <loc>https://francoisschnell.github.io/hugosite/categories/</loc>
